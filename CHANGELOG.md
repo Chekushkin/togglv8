@@ -9,6 +9,10 @@ Version numbers are meant to adhere to [Semantic Versioning](http://semver.org/)
 
 ## [Unreleased]
 
+## [1.2.2] - 2021-06-13
+### Changed
+
+* Updated base url to fix deprecation issue.
 
 ## [1.2.1] - 2016-07-25
 ### Changed
